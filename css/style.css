@@ -45,10 +45,10 @@ header{
     justify-content: center; 
 }
 
-.site-menu li{
-    /* min-width: 6vw; */
-    /* margin: 0 5%; */
-}
+/* .site-menu li{
+    min-width: 6vw;
+    margin: 0 5%;
+} */
 
 .site-menu a{
     /* margin: 0 2vw; */
