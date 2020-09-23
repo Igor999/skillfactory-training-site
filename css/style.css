@@ -778,6 +778,7 @@ main .main-img:hover{
     font-size: 20px;
     margin: 0 auto;
     margin-left: 0;
+    background-color: #e0e0e0;
 }
 
 .bigtext{
@@ -786,6 +787,7 @@ main .main-img:hover{
     margin-top: 2%;
     margin-bottom: 2%;
     font-size: 20px;
+    background-color: #e0e0e0;
 }
 
 .redbut{
